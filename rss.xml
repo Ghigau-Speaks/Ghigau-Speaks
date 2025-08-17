@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ghigau Speaks</title>
+    <link>https://ghigau-speaks.github.io/</link>
+    <description>Clarity, alignment, and signal in the age of AI.</description>
+    <item>
+      <title>Anchored: Is AI hitting a wall?</title>
+      <link>https://ghigau-speaks.github.io/posts/anchored.html</link>
+      <guid>https://ghigau-speaks.github.io/posts/anchored.html</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <description>A Ghigau Speaks pulse on capability ceilings, data, and alignment.</description>
+    </item>
+  </channel>
+</rss>
